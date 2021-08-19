@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Bootstrap",
+        "value": 50
+    },
+    {
+        "name": "C#",
+        "value": 10
+    },
+    {
+        "name": "CSS",
+        "value": 70
+    },
+    {
+        "name": "Esri ArcGIS",
+        "value": 40
+    },
+    {
+        "name": "GDAL",
+        "value": 60
+    },
+    {
+        "name": "GeoServer",
+        "value": 70
+    },
+    {
+        "name": "GIS",
+        "value": 90
+    },
+    {
+        "name": "git",
+        "value": 20
+    },
+    {
+        "name": "GRASS GIS",
+        "value": 50
+    },
+    {
+        "name": "HTML",
+        "value": 60
+    },
+    {
+        "name": "JavaScript",
+        "value": 60
+    },
+    {
+        "name": "jQuery",
+        "value": 20
+    },
+    {
+        "name": "Microsoft Word, Excel, Powerpoint",
+        "value": 70
+    },
+    {
+        "name": "NodeJS",
+        "value": 30
+    },
+    {
+        "name": "npm",
+        "value": 30
+    },
+    {
+        "name": "OpenLayers",
+        "value": 50
+    },
+    {
+        "name": "PDAL",
+        "value": 10
+    },
+    {
+        "name": "PostGIS",
+        "value": 50
+    },
+    {
+        "name": "PostgreSQL",
+        "value": 60
+    },
+    {
+        "name": "potree",
+        "value": 10
+    },
+    {
+        "name": "PyQT",
+        "value": 20
+    },
+    {
+        "name": "Python",
+        "value": 50
+    },
+    {
+        "name": "QGIS",
+        "value": 90
+    },
+    {
+        "name": "Qt",
+        "value": 20
+    },
+    {
+        "name": "ReactJS",
+        "value": 20
+    },
+    {
+        "name": "SQL",
+        "value": 50
+    },
+    {
+        "name": "Tailwind CSS",
+        "value": 10
+    },
+    {
+        "name": "threejs",
+        "value": 10
+    },
+    {
+        "name": "VueJS",
+        "value": 30
+    }
+]
