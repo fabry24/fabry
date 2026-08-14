@@ -1,23 +1,15 @@
 [
     {
         "name": ".Net",
-        "value": 30
-    },
-    {
-        "name": "Bootstrap",
-        "value": 50
-    },
-    {
-        "name": "C#",
-        "value": 30
-    },
-    {
-        "name": "CSS",
         "value": 70
     },
     {
-        "name": "Esri ArcGIS",
-        "value": 40
+        "name": "C#",
+        "value": 70
+    },
+    {
+        "name": "GIS",
+        "value": 90
     },
     {
         "name": "GDAL",
@@ -28,91 +20,27 @@
         "value": 70
     },
     {
-        "name": "GIS",
-        "value": 90
-    },
-    {
-        "name": "git",
-        "value": 40
-    },
-    {
-        "name": "GRASS GIS",
-        "value": 50
-    },
-    {
-        "name": "HTML",
+        "name": "CI/CD",
         "value": 60
     },
     {
-        "name": "JavaScript",
+        "name": "Docker",
         "value": 60
-    },
-    {
-        "name": "jQuery",
-        "value": 20
-    },
-    {
-        "name": "Microsoft Word, Excel, Powerpoint",
-        "value": 70
-    },
-    {
-        "name": "NodeJS",
-        "value": 30
-    },
-    {
-        "name": "npm",
-        "value": 30
-    },
-    {
-        "name": "OpenLayers",
-        "value": 60
-    },
-    {
-        "name": "PostGIS",
-        "value": 70
-    },
-    {
-        "name": "PostgreSQL",
-        "value": 70
-    },
-    {
-        "name": "potree",
-        "value": 10
-    },
-    {
-        "name": "PyQT",
-        "value": 20
-    },
-    {
-        "name": "Python",
-        "value": 50
-    },
-    {
-        "name": "QGIS",
-        "value": 90
-    },
-    {
-        "name": "Qt",
-        "value": 20
-    },
-    {
-        "name": "ReactJS",
-        "value": 20
     },
     {
         "name": "SQL",
-        "value": 50
+        "value": 70
+    },
+    {
+        "name": "Python",
+        "value": 60
     },
     {
         "name": "Tailwind CSS",
-        "value": 10
-    },
-    {
-        "name": "threejs",
-        "value": 10
+        "value": 30
     },
     {
         "name": "VueJS",
-        "value": 40
+        "value": 30
     }
 ]
